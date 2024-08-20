@@ -1,15 +1,15 @@
 .bg-primary {
-    background-color: #ff0000; /* Azul por defecto */
+    background-color: #ff0000; 
 }
 
 .bg-secondary {
-    background-color: #60ee02; /* Gris */
+    background-color: #60ee02; 
 }
 
 .bg-success {
-    background-color: #006eff; /* Verde */
+    background-color: #285fa7; 
 }
 
 body {
-    padding-top: 70px; /* Para evitar que el contenido quede oculto detrás del navbar fijo */
+    padding-top: 70px; 
 }
