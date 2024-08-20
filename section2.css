@@ -1,0 +1,7 @@
+.bg-green {
+    background-color: green;
+}
+
+body {
+    padding-top: 70px; /* Para evitar que el contenido quede oculto detrás del navbar fijo */
+}

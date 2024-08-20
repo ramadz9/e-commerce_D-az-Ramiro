@@ -1,0 +1,15 @@
+.bg-primary {
+    background-color: #ff0000; /* Azul por defecto */
+}
+
+.bg-secondary {
+    background-color: #60ee02; /* Gris */
+}
+
+.bg-success {
+    background-color: #006eff; /* Verde */
+}
+
+body {
+    padding-top: 70px; /* Para evitar que el contenido quede oculto detrás del navbar fijo */
+}

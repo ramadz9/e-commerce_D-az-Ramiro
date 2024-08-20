@@ -1,0 +1,15 @@
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+body {
+    padding-top: 70px; /* Para evitar que el contenido quede oculto detrás del navbar fijo */
+}
